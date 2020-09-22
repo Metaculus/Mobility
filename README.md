@@ -3,11 +3,7 @@ This is a repository that hosts Apple's Mobility Data.
 
 ### Data
 
-Data for the New York City: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.xlsx)
-
-Data for San Fransisco — Bay Area: [CSV](google_reports/mobility_report_brazil.csv), [Excel](google_reports/mobility_report_brazil.xlsx)
-
-
+Data for the New York City and San Fransisco — Bay Area: [CSV](https://github.com/Metaculus/Mobility/blob/master/Mobility_2020-09-22.csv), [Excel](https://github.com/Metaculus/Mobility/blob/master/Mobility_2020-09-22.xlsb)
 
 ### About [Apple COVID-19 Mobility Trends Reports](https://www.apple.com/covid19/mobility)
 

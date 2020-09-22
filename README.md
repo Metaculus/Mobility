@@ -1,5 +1,5 @@
 # COVID-19 Mobility Data Aggregator
-This is a repository that hosts a subset of Apple's Mobility Data.
+This is a repository that hosts a subset of Apple's Mobility Data. This has been created to facilitate the forecasting of the effects of COVID-19 on transit activity across the United States. 
 
 ### Data
 

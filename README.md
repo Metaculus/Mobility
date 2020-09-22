@@ -1,4 +1,4 @@
-# COVID-19 Mobility Data Aggregator. Scraper of Apple COVID-19 Mobility Reports for the purpose of COVID-19 related forecasting
+# COVID-19 Mobility Data Aggregator
 This is a repository with a data scraper of Apple's Mobility Data.
 
 

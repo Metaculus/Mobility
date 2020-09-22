@@ -1,5 +1,5 @@
 # COVID-19 Mobility Data Aggregator
-This is a repository that hosts Apple's Mobility Data.
+This is a repository that hosts a subset of Apple's Mobility Data.
 
 ### Data
 

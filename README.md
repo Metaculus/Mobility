@@ -1,6 +1,13 @@
 # COVID-19 Mobility Data Aggregator
 This is a repository that hosts Apple's Mobility Data.
 
+### Data
+
+Data for the New York City: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.xlsx)
+
+Data for San Fransisco — Bay Area: [CSV](google_reports/mobility_report_brazil.csv), [Excel](google_reports/mobility_report_brazil.xlsx)
+
+
 
 ### About [Apple COVID-19 Mobility Trends Reports](https://www.apple.com/covid19/mobility)
 
